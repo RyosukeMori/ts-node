@@ -1,0 +1,18 @@
+{
+  "name": "ts-node",
+  "version": "1.0.0",
+  "main": "src/index.ts",
+  "repository": "git@github.com:RyosukeMori/ts-node.git",
+  "author": "info@nickellab.net",
+  "license": "MIT",
+  "scripts": {
+    "start": "ts-node src/index.ts"
+  },
+  "devDependencies": {
+    "eslint": "^8.6.0",
+    "eslint-config-prettier": "^8.3.0",
+    "prettier": "^2.5.1",
+    "ts-node": "^10.4.0",
+    "typescript": "^4.5.4"
+  }
+}
